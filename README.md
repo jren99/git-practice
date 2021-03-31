@@ -1,4 +1,5 @@
 # Practice with git and GitHub
+> I'm Jaya Ren and I edited this file! 
 
 \[Your Step 3 Edit Here\]
 
@@ -28,7 +29,7 @@ You now have a copy of this repository on GitHub. But how can you make changes? 
 
 In your local clone of the repository, open this file (`README.md`). At the top of the file, underneath the title, type 
 
-> I'm \[your name\] and I edited this file! 
+> I'm Jaya Ren and I edited this file! 
 
 ## 4. Add and Commit
 
